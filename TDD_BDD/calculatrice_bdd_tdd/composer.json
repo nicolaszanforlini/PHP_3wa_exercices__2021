@@ -1,0 +1,19 @@
+{
+    "name": "nicol/calculatrice_bdd",
+    "autoload": {
+        "psr-4": {
+            "Calc\\" : "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolaszanforlini",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {
+        "behat/behat": "^3.8",
+        "phpunit/phpunit": "^9.5",
+        "vlucas/phpdotenv": "^5.3"
+    }
+}

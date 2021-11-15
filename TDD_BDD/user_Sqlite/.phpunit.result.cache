@@ -1,0 +1,1 @@
+{"version":1,"defects":{"UserTest::testSeedsCreate":4,"UserTest::testInsertSave":4,"UserTest::testUpdateSave":5,"UserTest::testDelete":5},"times":{"UserTest::testSeedsCreate":0.009,"UserTest::testInsertSave":0.002,"UserTest::testUpdateSave":0.001,"UserTest::testDelete":0.001}}

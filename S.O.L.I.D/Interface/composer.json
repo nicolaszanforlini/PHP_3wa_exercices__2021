@@ -1,0 +1,16 @@
+{
+    "name": "nicol/inter",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Inter\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolaszanforlini",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}

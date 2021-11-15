@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculatotTest::testAddCalculator":3,"CalculatotTest::testDivCalculator":3,"CalculatotTest::testDivParOCalculator":3,"CalculatotTest::testImplement":4},"times":{"CalculatotTest::testAddCalculator":0.022,"CalculatotTest::testDivCalculator":0,"CalculatotTest::testDivParOCalculator":0.009,"CalculatotTest::testImplement":0.001}}

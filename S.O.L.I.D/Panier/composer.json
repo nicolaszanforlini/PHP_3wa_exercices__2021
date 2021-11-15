@@ -1,0 +1,16 @@
+{
+    "name": "nicol/panier",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Panier\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolaszanforlini",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}

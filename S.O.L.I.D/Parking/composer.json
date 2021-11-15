@@ -1,0 +1,16 @@
+{
+    "name": "nicol/parking",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Parking\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolaszanforlini",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}

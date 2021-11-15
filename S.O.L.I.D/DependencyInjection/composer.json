@@ -1,0 +1,16 @@
+{
+    "name": "nicol/dependency-injection",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Depend\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "nicolaszanforlini",
+            "email": "you@example.com"
+        }
+    ],
+    "require": {}
+}

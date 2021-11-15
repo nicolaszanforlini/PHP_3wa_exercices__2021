@@ -1,0 +1,1 @@
+{"version":1,"defects":{"CalculeTest::testGetMemory":4,"CalculeTest::testResetMemory":3,"CalculeTest::testAddition":4},"times":{"CalculeTest::testInstanceCalc":0.017,"CalculeTest::testAdd":0.001,"CalculeTest::testGetMemory":0.001,"CalculeTest::testDisplayMemory":0,"CalculeTest::testResetMemory":0.002,"CalculeTest::testAddition":0}}
